@@ -1,0 +1,52 @@
+baseURL = "http://www.japandreamin.com/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "Japan Dreamin' 2021"
+
+theme = "ohana-theme-hugo"
+
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+hasCJKLanguage = true
+
+# googleAnalytics = "UA-XXXXXXXX-X"
+
+[params]
+    title = "Japan Dreamin' 2021"
+    date = "2019-10-03"
+    description = "Japan Dreamin' はSalesforceのコミュニティが主催するカンファレンスイベントです。"
+    images = ["/images/logos/social-share.png"]
+    email = "sfjapandreamin@gmail.com"
+    keywords = "event, salesforce, technology, web, cloud, trailblazer"
+    copyright = "We :heart:️ Salesforce"
+    #cfpUrl = ""
+    twitterUrl = "https://www.twitter.com/japandreamin"
+    #subscriptionUrl = ""
+    appleTouchIcon = "/apple-touch-icon.png"
+    favicon32 = "/favicon-32x32.png"
+    favicon16 = "/favicon-16x16.png"
+    #manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#1589ee"
+
+[params.logos]
+    jumbo = "/images/logos/japandreamin_logo.png"
+    header = "/images/logos/japandreamin_header.png"
+    footer = "/images/logos/japandreamin_footer.png"
+    ogp = "/images/logos/social-share.png"
+
+[languages]
+[languages.ja]
+    weight = 1
+    languageName = "ja"
+
+[languages.en]
+    weight = 2
+    languageName = "en"
+
+[languages.en.params]
+    description = "Japan Dreamin' is a ‘glocal’ Salesforce community conference in Japan. Trailblazers in various roles and regions gather, learn, and connect. Don't miss this educational and inspirational event!"
+
+[taxonomies]
+  tag = "tags"

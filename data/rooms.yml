@@ -1,0 +1,19 @@
+- key: room1
+  label: Blaze
+  description: システム管理者向けトラック
+- key: room2
+  label: Codey
+  description: 開発者・アーキテクト向けトラック
+- key: room3
+  label: Einstein
+  description: Einsteinおよび製品関連トラック
+- key: room4
+  label: Astro
+  description: 英語セッション
+- key: workshop
+  label: Earnie
+  description: ワークショップ
+- key: open_space
+  label: Open Space
+  description: オープンスペース
+  skip: true  

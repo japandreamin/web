@@ -1,0 +1,30 @@
+nav {
+    background-color: #FFF;
+}
+
+.nav-logo {
+    height: 50px;
+}
+
+.icon {
+    width: 64px;
+    fill: #FFF;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 1fr;
+    grid-gap: 3em;
+}
+
+.grid > div {
+    padding: 1em;
+    overflow: auto;
+}
+
+@media screen and (max-width:60em){
+    .bg {
+        background-image: none !important;
+    }
+}

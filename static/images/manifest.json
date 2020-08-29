@@ -1,0 +1,12 @@
+{
+    "lang": "ja",
+    "name": "Japan Dreamin' 2020",
+    "short_name": "Japan Dreamin'",
+    "icons": [{
+          "src": "/app-icon.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        }],
+    "start_url": "https://www.japandreamin.com/",
+    "display": "standalone"
+  }

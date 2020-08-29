@@ -1,0 +1,3 @@
+[submodule "themes/ohana-theme-hugo"]
+	path = themes/ohana-theme-hugo
+	url = https://github.com/japandreamin/ohama-theme-hugo.git
