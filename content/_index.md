@@ -21,7 +21,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Day:1,Sessions:10+,Parallel Tracks:4" class="primary" %}}
+{{% home-info %}}
 ## Japan Dreamin' について
 
 Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。国内外の著名スピーカーによるセッションの他、ハンズオンや参加者同士が楽しめるアクティビティをお届けします。

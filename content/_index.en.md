@@ -21,7 +21,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Day:1,Sessions:10+,Parallel Tracks:4" class="primary" %}}
+{{% home-info %}}
 ## What is Japan Dreamin'?
 
 Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailblazers in various roles and regions gather, learn, and connect. Don’t miss this educational and inspirational event!
