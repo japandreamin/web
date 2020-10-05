@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 hasCJKLanguage = true
 
-# googleAnalytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-179509318-1"
 
 [params]
     title = "Japan Dreamin' 2021"
