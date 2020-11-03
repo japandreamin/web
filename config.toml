@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 hasCJKLanguage = true
 
-googleAnalytics = "UA-179509318-1"
+# googleAnalytics = "UA-179509318-1"
 
 [params]
     title = "Japan Dreamin' 2021"
@@ -29,6 +29,7 @@ googleAnalytics = "UA-179509318-1"
     #manifest = "/manifest.json"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#1589ee"
+    googleTagManager = "GTM-THW8BJD"
 
 [params.logos]
     jumbo = "/images/logos/japandreamin_logo.png"
