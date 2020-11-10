@@ -9,6 +9,9 @@ draft: false
 
 {{% hero %}}
 
+## お知らせ
+Japan Dreamin' 2021 のスポンサー募集は締め切りました。たくさんのご応募ありがとうございました。
+
 ## スポンサー募集について
 Japan Dreamin' 2021 では、Salesforceコミュニティによる年に一度の全国規模のカンファレンスに協力、貢献していたけるスポンサー企業様、団体様を募集いたします。
 
@@ -21,13 +24,6 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
 
 ## スポンサー募集要項
 [Japan Dreamin' 2021 協賛のお願い (Google スライド)](https://docs.google.com/presentation/d/1jAicue5C4C1W22Vbbkb_2TLyLBUOkki_reY2Vfo-gTI/edit?usp=sharing) をご確認ください。
-
-{{< button-link label="スポンサー申込フォームへ"
-                url="https://forms.gle/KuuEbiYhSeJiZQvv6"
-                icon="direction" >}} 
-
-{{% /hero %}}
-
 
 <!-- Parteners list -->
 
