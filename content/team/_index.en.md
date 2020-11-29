@@ -20,9 +20,3 @@ Japan Dreamin' is organized by some of the trailblazer community leaders in Japa
 {{< teams types="core=Core Members" >}}
 
 <!-- ... -->
-
-<!--
-{{% partners categories="communautes,media" %}}
-# Partners
-{{% /partners %}}
--->
