@@ -25,9 +25,3 @@ If you wish to become a sponsor, contact us at
 <section class="content">
 <h2><!--Coming Soon--></h2>
 </section>
-
-<!--
-{{% partners categories="platinium,gold,startup,soutien,communautes" %}}
-
-{{% /partners %}}
--->

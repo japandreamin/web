@@ -21,8 +21,3 @@ Japan Dreamin' は日本のSalesforceコミュニティリーダーが中心と�
 
 <!-- ... -->
 
-<!--
-{{% partners categories="communautes,media" %}}
-# Partners
-{{% /partners %}}
--->
