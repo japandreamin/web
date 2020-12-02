@@ -1,7 +1,7 @@
 ---
 title: Sayaka Chiba
 type: core
-subtitle: ECOTEC
+subtitle: Chuo Electric Power
 photo: sayaka_chiba.jpg
 socials:
   - link: 'https://www.twitter.com/csyk1004'
