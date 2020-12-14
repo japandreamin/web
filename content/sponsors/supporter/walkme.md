@@ -2,7 +2,7 @@
 key: WalkMe
 title: WalkMe
 category: supporter
-order: 28
+order: 29
 logo: /images/partners/walkme.png
 website: 'https://walkme.co.jp/'
 lang: ja
