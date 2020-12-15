@@ -2,7 +2,7 @@
 key: Compouter Futures
 title: Computer Futures
 category: supporter
-order: 22
+order: 21
 logo: /images/partners/computerfutures.png
 website: 'https://www.computerfutures.com/'
 lang: ja
