@@ -10,7 +10,8 @@ menu:
 {{% jumbo img="/images/backgrounds/bg-2020-min.jpg" imgLabel="Japan Dreamin'" %}}
 
 ## 2021 年 1 月 30 日
-### 14:00 - 18:00
+### 14:00 - 18:00 (セッション)
+### 18:00 - 20:00 (懇親会)
 ### オンライン開催
 
 <a class="btn primary btn-lg" href="https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-developer-group-tokyo-japan-presents-japan-dreamin-2021">
@@ -20,11 +21,28 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info %}}
+{{% home-info  class="primary" %}}
 ## Japan Dreamin' について
 
 Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。著名スピーカーによるセッションの他、参加者同士が楽しめるアクティビティをお届けします。
 {{% /home-info %}}
+
+<!-- ... -->
+
+{{% home-speakers %}}
+## Featured Speakers
+
+<!--
+{{< button-link label="Submit a presentation"
+                url="CALL_FOR_SPEAKERS_URL"
+                icon="cfp" >}}
+--> 
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+
+{{% /home-speakers %}}
 
 <!-- ... -->
 
