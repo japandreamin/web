@@ -11,3 +11,4 @@ socials:
     link: 'https://www.facebook.com/kazunori.kobayashi.3'
     name: kazunori.kobayashi.3
 ---
+日本財託インサイドセールスのマネージャー。SFAとMAを活用しながら、1年で20倍の生産性を実現。結果にこだわるセールス側admin
