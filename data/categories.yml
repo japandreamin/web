@@ -1,14 +1,10 @@
 - key: blaze
-  name: "\U0001F43A Blaze"
+  name: "\U0001F43A システム管理者"
 - key: astro
-  name: "\U0001F99D Astro"
-- key: einstein
-  name: "👨‍🦳 Einstein"
+  name: "\U0001F99D ビジネスユーザ"
 - key: codey
-  name: "\U0001F43B Codey"
-- key: lunch
-  name: Lunch
-- key: earnie
-  name: "\U0001F9A1 Earnie"
+  name: "\U0001F43B 開発者"
+- key: ruth
+  name: "\U0001F418 アーキテクト"
 - key: sponsor
-  name: "Sponsor"
+  name: "\U0001F3E2 スポンサー"

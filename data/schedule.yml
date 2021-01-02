@@ -1,174 +1,64 @@
-- day: '2020-01-25'
-  start: '09:00'
+- day: '2021-01-30'
+  start: '14:00'
   rooms:
     - room: room1
       slots:
-        - slot: open
+        - slot: opening
           talk: __open
-        - slot: greeting
-          talk: __greeting
         - slot: opening_keynote
           talk: opening_keynote
         - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: admin_keynote
+          talk: admin_1
+        - slot: sponsor-1
+          talk: sponsor_tobemarketing
+        - slot: slot-2
+          talk: user_2
         - slot: pause-1
           talk: __pause
-        - slot: slot-2
-          talk: adoption
-        - slot: lunch
-          talk: __lunch
-        - slot: lunch-session
-          talk: sponsor_lunch_walkme
+        - slot: slot-3
+          talk: user_1
+        - slot: sponsor-2
+          talk: sponsor_terrasky
+        - slot: slot-4
+          talk: admin_2
         - slot: pause-2
           talk: __pause
-        - slot: slot-3-1
-          talk: utilization
-        - slot: slot-3-2
-          talk: blank
-        - slot: pause-3
-          talk: __pause
-        - slot: slot-4-1
-          talk: features
-        - slot: pause-4
-          talk: __pause
-        - slot: slot-5
-          talk: admin_career_panel
-        - slot: pause-5
-          talk: __pause
-        - slot: slot-6
-          talk: admin_career_lex
-        - slot: pause-6
-          talk: __pause
-        - slot: slot-7
-          talk: sdgs
-        - slot: pause-7
-          talk: __pause
-        - slot: slot-8
-          talk: my_career_with_salesforce
-        - slot: pause-8
-          talk: __pause
         - slot: closing
-          talk: closing_session
+          talk: closing_keynote
+        - slot: pause-3
+          talk: __pause  
         - slot: party
           talk: __party
     - room: room2
       slots:
-        - slot: pause-1
-          talk: __pause
-        - slot: slot-2
-          talk: appexchange_development_best_practice
-        - slot: lunch
-          talk: __lunch
-        - slot: lunch-session
-          talk: sponsor_lunch_opro
-        - slot: pause-2
-          talk: __pause
-        - slot: slot-3-1
-          talk: lwc_for_beginners
-        - slot: slot-3-2
-          talk: salesforce_for_beginners
-        - slot: pause-3
-          talk: __pause
-        - slot: slot-4-1
-          talk: heroku_salesforce
-        - slot: pause-4
-          talk: __pause
-        - slot: slot-5
-          talk: mulesoft
-        - slot: pause-5
-          talk: __pause
-        - slot: slot-6
-          talk: developer_community_career
-        - slot: pause-6
-          talk: __pause
-        - slot: slot-7
-          talk: dont_stop_deploying
-        - slot: pause-7
-          talk: __pause
-        - slot: slot-8
-          talk: jsforce_2_0
-    - room: room3
-      slots:
-        - slot: pause-1
-          talk: __pause
-        - slot: slot-2
-          talk: einstein_analytics
-        - slot: pause-2
-          talk: __pause
-        - slot: lunch-session
-          talk: sponsor_lunch_teamspirit
-        - slot: pause-2
-          talk: __pause
-        - slot: slot-3
-          talk: einstein
-        - slot: pause-3
-          talk: __pause
-        - slot: slot-4-1
-          talk: lex_mobile_history
-        - slot: pause-4
-          talk: __pause
-        - slot: slot-5
-          talk: presentation_material
-        - slot: pause-5
-          talk: __pause
-        - slot: slot-6
-          talk: education
-        - slot: pause-6
-          talk: __pause
-        - slot: slot-7
-          talk: pardot
-        - slot: pause-7
-          talk: __pause
-        - slot: slot-8-1
-          talk: einstein_prediction_builder
-        - slot: slot-8-2
-          talk: trailhead_career
-    - room: room4
-      slots:
-        - slot: pause-1
+        - slot: opening
+          talk: __open
+        - slot: opening_keynote
+          talk: opening_keynote
+        - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: developer_keynote
-        - slot: pause-2
-          talk: __pause
+          talk: arch_1
+        - slot: sponsor-1
+          talk: sponsor_itforce
         - slot: slot-2
-          talk: scheduled_flow
-        - slot: lunch-session
-          talk: sponsor_lunch_uhuru
-        - slot: pause-2
+          talk: dev_1
+        - slot: pause-1
           talk: __pause
         - slot: slot-3
-          talk: social_studio
+          talk: arch_2
+        - slot: sponsor-2
+          talk: sponsor_mashmatrix
+        - slot: slot-4
+          talk: dev_2
+        - slot: pause-2
+          talk: __pause
+        - slot: closing
+          talk: closing_keynote
         - slot: pause-3
-          talk: __pause
-        - slot: slot-4-1
-          talk: new_dependency_api
-        - slot: pause-4
-          talk: __pause
-        - slot: slot-5
-          talk: navigate_mobile_app_journey
-        - slot: pause-5
-          talk: __pause
-        - slot: slot-6
-          talk: community_builder
-        - slot: pause-6
-          talk: __pause
-        - slot: slot-7
-          talk: from_idea_to_feature
-        - slot: pause-7
-          talk: __pause
-        - slot: slot-8
-          talk: evangelists_panel
-    - room: workshop
-      slots:
-        - slot: workshop-1
-          talk: technical_architect_workshop
-        - slot: workshop-2
-          talk: terakoya
-        - slot: workshop-3
-          talk: badgethon
-        - slot: workshop-4
-          talk: sctb
-      
+          talk: __pause  
+        - slot: party
+          talk: __party
+    

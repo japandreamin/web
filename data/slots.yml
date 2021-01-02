@@ -1,204 +1,84 @@
-- key: open
-  start: '09:30'
-  duration: 60
+- key: opening
+  start: '14:00'
+  duration: 5
   row:
     start: 1
     end: 2
-- key: greeting
-  start: '10:00'
-  duration: 20
+- key: opening_keynote
+  start: '14:05'
+  duration: 40
   row:
     start: 2
-    end: 4
-- key: opening_keynote
-  start: '10:10'
-  duration: 40
-  row:
-    start: 4
-    end: 7
+    end: 5
 - key: pause-0
-  start: '10:50'
-  duration: 5
+  start: '14:40'
+  duration: 10
   row:
-    start: 7
-    end: 8
+    start: 5
+    end: 6
 - key: slot-1
-  start: '11:00'
-  duration: 40
+  start: '14:50'
+  duration: 30
+  row:
+    start: 6
+    end: 8
+- key: sponsor-1
+  start: '15:20'
+  duration: 10
   row:
     start: 8
-    end: 11
-- key: pause-1
-  start: '11:40'
-  duration: 5
-  row:
-    start: 11
-    end: 12
+    end: 10
 - key: slot-2
-  start: '11:45'
-  duration: 20
+  start: '15:30'
+  duration: 30
+  row:
+    start: 10
+    end: 12
+- key: pause-1
+  start: '16:00'
+  duration: 10
   row:
     start: 12
+    end: 13
+- key: slot-3
+  start: '16:10'
+  duration: 30
+  row:
+    start: 13
     end: 15
-- key: lunch
-  start: '12:05'
-  duration: 15
+- key: sponsor-2
+  start: '16:40'
+  duration: 10
   row:
     start: 15
-    end: 16
-- key: lunch-session
-  start: '12:20'
-  duration: 40
+    end: 17
+- key: slot-4
+  start: '16:50'
+  duration: 30
   row:
-    start: 16
+    start: 17
     end: 19
 - key: pause-2
-  start: '13:00'
-  duration: 5
+  start: '17:20'
+  duration: 10
   row:
     start: 19
     end: 20
-- key: slot-3
-  start: '13:05'
-  duration: 40
-  row:
-    start: 20
-    end: 26
-- key: slot-3-1
-  start: '13:05'
+- key: closing
+  start: '17:30'
   duration: 20
   row:
     start: 20
+    end: 22
+- key: pause-3
+  start: '17:50'
+  duration: 10
+  row:
+    start: 22
     end: 23
-- key: slot-3-2
-  start: '13:25'
-  duration: 20
+- key: party
+  start: '18:00'
+  duration: 120
   row:
     start: 23
     end: 26
-- key: workshop-1
-  start: '13:05'
-  duration: 50
-  row:
-    start: 20
-    end: 28
-- key: pause-3
-  start: '13:45'
-  duration: 5
-  row:
-    start: 26
-    end: 27
-- key: slot-4
-  start: '13:50'
-  duration: 40
-  row:
-    start: 27
-    end: 32
-- key: slot-4-1
-  start: '13:50'
-  duration: 20
-  row:
-    start: 27
-    end: 30
-- key: workshop-2
-  start: '14:00'
-  duration: 50
-  row:
-    start: 29
-    end: 36
-- key: slot-4-2
-  start: '14:10'
-  duration: 20
-  row:
-    start: 30
-    end: 32
-- key: pause-4
-  start: '14:15'
-  duration: 5
-  row:
-    start: 30
-    end: 31
-- key: slot-5
-  start: '14:20'
-  duration: 40
-  row:
-    start: 31
-    end: 36
-- key: pause-5
-  start: '15:00'
-  duration: 5
-  row:
-    start: 36
-    end: 37
-- key: workshop-3
-  start: '15:00'
-  duration: 50
-  row:
-    start: 37
-    end: 43
-- key: slot-6
-  start: '15:05'
-  duration: 20
-  row:
-    start: 37
-    end: 40
-- key: pause-6
-  start: '15:25'
-  duration: 5
-  row:
-    start: 40
-    end: 41
-- key: slot-7
-  start: '15:30'
-  duration: 40
-  row:
-    start: 41
-    end: 46
-- key: workshop-4
-  start: '16:00'
-  duration: 50
-  row:
-    start: 45
-    end: 52
-- key: pause-7
-  start: '16:10'
-  duration: 5
-  row:
-    start: 46
-    end: 47
-- key: slot-8
-  start: '16:10'
-  duration: 40
-  row:
-    start: 47
-    end: 53
-- key: slot-8-1
-  start: '16:15'
-  duration: 20
-  row:
-    start: 47
-    end: 50
-- key: slot-8-2
-  start: '16:40'
-  duration: 20
-  row:
-    start: 50
-    end: 53
-- key: pause-8
-  start: '17:00'
-  duration: 10
-  row:
-    start: 53
-    end: 54
-- key: closing
-  start: '17:10'
-  duration: 40
-  row:
-    start: 54
-    end: 56
-- key: party
-  start: '17:40'
-  duration: 120
-  row:
-    start: 56
-    end: 60
