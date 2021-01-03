@@ -1,4 +1,4 @@
-baseURL = "http://www.japandreamin.com/"
+baseURL = "https://www.japandreamin.com/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "Japan Dreamin' 2021"
@@ -35,7 +35,6 @@ hasCJKLanguage = true
     jumbo = "/images/logos/japandreamin_logo.png"
     header = "/images/logos/japandreamin_header.png"
     footer = "/images/logos/japandreamin_footer.png"
-    ogp = "https://www.japandreamin.com/images/logos/social-share.png"
 
 [languages]
 [languages.ja]
