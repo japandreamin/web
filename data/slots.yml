@@ -17,7 +17,7 @@
     start: 5
     end: 6
 - key: slot-1
-  start: '14:50'
+  start: '14:45'
   duration: 30
   row:
     start: 6

@@ -18,11 +18,11 @@
         - slot: pause-1
           talk: __pause
         - slot: slot-3
-          talk: user_1
+          talk: admin_2
         - slot: sponsor-2
           talk: sponsor_terrasky
         - slot: slot-4
-          talk: admin_2
+          talk: user_1
         - slot: pause-2
           talk: __pause
         - slot: closing
