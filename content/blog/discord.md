@@ -2,7 +2,7 @@
 title: Japan Dreamin' の Discord で参加者と繋がろう！
 brief: 
 image: /images/blog/discord.png
-date: 2019-11-30
+date: 2021-01-14
 draft: false
 ---
 
