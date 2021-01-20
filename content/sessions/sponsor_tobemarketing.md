@@ -8,3 +8,5 @@ speakers:
   - shinya_yamamoto
 draft: false
 ---
+コロナ禍で起きた変化に対応する
+Pardot戦略策定4つのステップ
