@@ -6,7 +6,7 @@ tags:
   - open
 speakers:
   - miho_funakoshi
-  - akiko_omoto
+  - akiko_otomo
   - shin_hasegawa
   - rumi_kotaniguchi
 presentation: 
