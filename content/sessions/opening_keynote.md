@@ -3,7 +3,7 @@ key: opening_keynote
 title: "Welcome Japan Dreamin' - Trailblazerに育てていただいたSalesforceの成長日記 -"
 format: keynote
 tags:
-  - open
+  - keynote
 speakers:
   - junichiro_tasaki
 presentation: 

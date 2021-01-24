@@ -35,8 +35,6 @@
       slots:
         - slot: opening
           talk: __open
-        - slot: opening_keynote
-          talk: opening_keynote
         - slot: pause-0
           talk: __pause
         - slot: slot-1
@@ -55,8 +53,6 @@
           talk: dev_2
         - slot: pause-2
           talk: __pause
-        - slot: closing
-          talk: closing_keynote
         - slot: pause-3
           talk: __pause  
         - slot: party

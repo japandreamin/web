@@ -3,7 +3,7 @@ key: closing_keynote
 title: Trailblazerが実践するキャリアの描き方
 format: keynote
 tags:
-  - open
+  - keynote
 speakers:
   - miho_funakoshi
   - akiko_otomo
