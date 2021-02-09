@@ -9,14 +9,9 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2020-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-## 2021 年 1 月 30 日
-### 14:00 - 18:00 (セッション)
-### 18:00 - 20:00 (懇親会)
-### オンライン開催
+Japan Dreamin' 2021 は無事にオンライン開催終了しました。
 
-<a class="btn primary btn-lg" href="https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-developer-group-tokyo-japan-presents-japan-dreamin-2021">
-    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>今すぐ参加登録
-</a>
+また来年お会いしましょう！
 
 {{% /jumbo %}}
 
