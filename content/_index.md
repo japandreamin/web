@@ -7,14 +7,15 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/bg-2020-min.jpg" imgLabel="Japan Dreamin'" %}}
+{{% jumbo img="/images/backgrounds/bg-2021.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2021 は無事にオンライン開催終了しました。
+Japan Dreamin' 2022
 
-また来年お会いしましょう！
+2022年1月 オンライン開催予定
 
 {{% /jumbo %}}
 
+<!-- ... -->
 
 {{% home-info  class="primary" %}}
 ## Japan Dreamin' について
@@ -24,41 +25,8 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 
 <!-- ... -->
 
-{{% home-speakers %}}
-## Featured Speakers
-
-<!--
-{{< button-link label="Submit a presentation"
-                url="CALL_FOR_SPEAKERS_URL"
-                icon="cfp" >}}
---> 
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
-
-
-{{% /home-speakers %}}
-
-<!-- ... -->
-
-{{% home-subscribe  class="primary" %}}
+{{% home-subscribe  class="secondary" %}}
 
 ## Japan Dreamin' 公式 Twitter で最新情報をチェック
 
 {{% /home-subscribe %}}
-
-<!-- ... -->
-
-{{% home-tickets %}}
-## 参加登録
-<!--
-<a class="btn primary" href="TICKET_URL" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
--->
-当日のイベント参加には参加登録(無料)が必要です。以下の [参加登録する] ボタンからお願いします。
-<br>※ 外部サイト (trailblazercommunitygroups.com) へ遷移します。
-
-<a class="btn primary btn-lg" href="https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-developer-group-tokyo-japan-presents-japan-dreamin-2021">
-    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>参加登録する
-</a>
-
-{{% /home-tickets %}}

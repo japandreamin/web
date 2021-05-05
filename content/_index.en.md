@@ -7,9 +7,9 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/bg-2020-min.jpg" imgLabel="Japan Dreamin'" %}}
+{{% jumbo img="/images/backgrounds/bg-2021.jpg" imgLabel="Japan Dreamin'" %}}
 
-## January 30th, 2021
+## January, 2022
 ### Virtual
 
 <!--
@@ -29,24 +29,7 @@ Japan Dreamin’ is a 'glocal' Salesforce community conference in Japan. Trailbl
 
 <!-- ... -->
 
-{{% home-speakers %}}
-## Featured Speakers
-
-<!--
-{{< button-link label="Submit a presentation"
-                url="CALL_FOR_SPEAKERS_URL"
-                icon="cfp" >}}
---> 
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
-
-
-{{% /home-speakers %}}
-
-<!-- ... -->
-
-{{% home-subscribe  class="primary" %}}
+{{% home-subscribe  class="secondary" %}}
 
 ## Check the Latest Information from Japan Dreamin' Official Twitter Account
 
