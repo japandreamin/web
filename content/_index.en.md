@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/bg-2021.jpg" imgLabel="Japan Dreamin'" %}}
+{{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
 ## January, 2022
 ### Virtual

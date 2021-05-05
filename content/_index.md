@@ -7,7 +7,7 @@ menu:
 
 ---
 
-{{% jumbo img="/images/backgrounds/bg-2021.jpg" imgLabel="Japan Dreamin'" %}}
+{{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
 Japan Dreamin' 2022
 
