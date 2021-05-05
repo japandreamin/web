@@ -1,7 +1,7 @@
 baseURL = "https://www.japandreamin.com/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
-title = "Japan Dreamin' 2021"
+title = "Japan Dreamin'"
 
 theme = "ohana-theme-hugo"
 
@@ -13,7 +13,7 @@ hasCJKLanguage = true
 # googleAnalytics = "UA-179509318-1"
 
 [params]
-    title = "Japan Dreamin' 2021"
+    title = "Japan Dreamin'"
     date = "2019-10-03"
     description = "Japan Dreamin' はSalesforceのコミュニティが主催するカンファレンスイベントです。"
     images = ["/images/logos/social-share.png"]
