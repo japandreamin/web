@@ -9,7 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-## January, 2022
+## January 22nd, 2022
 ### Virtual
 
 <!--
