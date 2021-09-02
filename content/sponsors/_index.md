@@ -22,6 +22,8 @@ Japan Dreamin' のスポンサーシップは、ただお金の支援のみで�
 ## スポンサー募集要項
 [Japan Dreamin' 2022 協賛のお願い (Google スライド)](https://docs.google.com/presentation/d/1qBxZCNXhC-BuriNk-WTn443Hv1HmGD1c5v5jJ1dyQFM/edit?usp=sharing) をご確認ください。
 
+セッション枠および協賛枠(LT)は 2021年9月10日に締め切り予定です。応募多数の場合は抽選の上、事務局よりご連絡差し上げます。
+
 {{< button-link label="スポンサー申込フォームへ"
                 url="https://forms.gle/es1ztZemAGfcmKXz9"
                 icon="direction" >}} 
