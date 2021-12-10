@@ -29,8 +29,26 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 
 <!-- ... -->
 
+{{% home-speakers %}}
+## Speakers
+
+<!--
+{{< button-link label="Submit a presentation"
+                url="CALL_FOR_SPEAKERS_URL"
+                icon="cfp" >}}
+--> 
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+
+{{% /home-speakers %}}
+
+<!-- ... -->
+
 {{% home-subscribe  class="secondary" %}}
 
 ## Japan Dreamin' 公式 Twitter で最新情報をチェック
 
 {{% /home-subscribe %}}
+
