@@ -2,7 +2,7 @@
 key: teamspirit
 title: 株式会社チームスピリット
 category: supporter
-order: 19
+order: 20
 logo: /images/partners/teamspirit.png
 website: 'https://www.teamspirit.com/'
 lang: ja

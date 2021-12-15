@@ -2,7 +2,7 @@
 key: use
 title: 株式会社 ユー・エス・イー
 category: supporter
-order: 22
+order: 23
 logo: /images/partners/use.png
 website: 'https://www.use-ebisu.co.jp/'
 lang: ja

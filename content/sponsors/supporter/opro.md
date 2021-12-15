@@ -2,7 +2,7 @@
 key: opro
 title: 株式会社オプロ
 category: supporter
-order: 16
+order: 17
 logo: /images/partners/opro.png
 website: 'https://www.opro.net'
 lang: ja
