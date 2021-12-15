@@ -2,7 +2,7 @@
 key: uhuru
 title: Uhuru
 category: supporter
-order: 21
+order: 22
 logo: /images/partners/uhuru.png
 website: 'https://uhuru.co.jp/'
 lang: ja

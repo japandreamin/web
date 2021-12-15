@@ -2,7 +2,7 @@
 key: nextage
 title: 株式会社ネクステージ
 category: 
-order: 14
+order: 15
 logo: /images/partners/nextage.png
 website: 'https://www.nxtg.co.jp/'
 lang: ja

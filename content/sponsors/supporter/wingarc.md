@@ -2,7 +2,7 @@
 key: wingarc
 title: ウイングアーク１ｓｔ株式会社
 category: supporter
-order: 23
+order: 24
 logo: /images/partners/wingarc.png
 website: 'http://www.wingarc.com/'
 lang: ja

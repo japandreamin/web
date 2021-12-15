@@ -1,8 +1,8 @@
 ---
 key: ITForce
 title: IT FORCE株式会社
-category: session
-order: 3
+category: supporter
+order: 14
 logo: /images/partners/itforce.png
 website: 'https://www.itforce.co.jp/'
 lang: ja

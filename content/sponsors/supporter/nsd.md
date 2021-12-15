@@ -2,7 +2,7 @@
 key: nsd
 title: 株式会社日本システムデザイン
 category: supporter
-order: 15
+order: 16
 logo: /images/partners/nsd.jpg
 website: 'https://www.n-sysdes.co.jp/'
 lang: ja
