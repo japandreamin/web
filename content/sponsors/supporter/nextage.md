@@ -1,7 +1,7 @@
 ---
 key: nextage
 title: 株式会社ネクステージ
-category: 
+category: supporter
 order: 15
 logo: /images/partners/nextage.png
 website: 'https://www.nxtg.co.jp/'
