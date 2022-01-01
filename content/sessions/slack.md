@@ -8,6 +8,6 @@ speakers:
 presentation: 
 draft: false
 ---
-・Slack概要おさらい
-・Digital HQとは何か？
+・Slack概要おさらい<br>
+・Digital HQとは何か？<br>
 ・Slack最新情報
