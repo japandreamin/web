@@ -1,9 +1,9 @@
 ---
 key: saison_info
 title: 株式会社セゾン情報システムズ
-category: 
+category: supporter
 order: 19
-logo: /images/partners/saison.png
+logo: /images/partners/saison.gif
 website: 'https://www.hulft.com/'
 lang: ja
 ---
