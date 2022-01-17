@@ -53,6 +53,10 @@
           talk: __party
     - room: room2
       slots:
+        - slot: opening
+          talk: __open
+        - slot: opening_keynote
+          talk: opening_keynote
         - slot: pause-0
           talk: __pause
         - slot: slot-1
@@ -91,3 +95,7 @@
           talk: slack
         - slot: pause-9
           talk: __pause
+        - slot: slot-7
+          talk: demojam
+        - slot: closing_keynote
+          talk: closing_keynote
