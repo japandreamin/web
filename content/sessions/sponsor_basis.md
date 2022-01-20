@@ -1,6 +1,6 @@
 ---
 key: sponsor_basis
-title: KonaSearch Deep Search for Salesforce
+title: KonaSearch「求人・求職マッチングシステム」
 format: short
 tags:
   - sponsor
