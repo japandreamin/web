@@ -11,11 +11,7 @@ menu:
 
 Japan Dreamin' 2022
 
-2022年1月22日 オンライン開催予定
-
-<a class="btn primary btn-lg" href="https://trailblazercommunitygroups.com/events/details/salesforce-salesforce-developer-group-tokyo-japan-presents-japan-dreamin-2022/">
-    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>今すぐ参加登録
-</a>
+また来年お会いしましょう！
 
 {{% /jumbo %}}
 

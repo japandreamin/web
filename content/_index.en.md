@@ -9,8 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-## January 22nd, 2022
-### Virtual
+## See you soon in 2023!
 
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
