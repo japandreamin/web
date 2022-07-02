@@ -9,9 +9,8 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2022
-
-また来年お会いしましょう！
+Japan Dreamin' 2023
+## 2023年1月28日 開催予定
 
 {{% /jumbo %}}
 
@@ -22,23 +21,6 @@ Japan Dreamin' 2022
 
 Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。著名スピーカーによるセッションの他、参加者同士が楽しめるアクティビティをお届けします。
 {{% /home-info %}}
-
-<!-- ... -->
-
-{{% home-speakers %}}
-## Speakers
-
-<!--
-{{< button-link label="Submit a presentation"
-                url="CALL_FOR_SPEAKERS_URL"
-                icon="cfp" >}}
---> 
-{{< button-link label="See all speakers"
-                url="./speakers"
-                icon="right" >}}
-
-
-{{% /home-speakers %}}
 
 <!-- ... -->
 
