@@ -5,10 +5,5 @@ id:
 feature: true
 company: 株式会社船場
 city: 
-photoURL: 
-socials:
- - icon: twitter
-   link : ''
-   name: 
+photoURL: /images/speakers/rumi_kotaniguchi.jpeg
 ---
-2020年3月〜Community ManagerとしてTrailblazerのみなさんと一緒にSalesforceコミュニティを盛りあげる活動をしています
