@@ -13,7 +13,7 @@ Japan Dreamin' 2022 にご協賛いただいているスポンサーの企業・
 
 {{% /hero %}}
 
-{{% sponsors categories="session,demojam,supporter" %}}
+{{% sponsors categories="venue,session,demojam,supporter" %}}
 
 掲載はアルファベット順です。
 
