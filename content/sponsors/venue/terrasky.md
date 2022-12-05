@@ -8,8 +8,7 @@ website: 'https://www.terrasky.co.jp/'
 lang: ja
 ---
 ★SNS： https://twitter.com/TerraSky_mk <br/>
-★ホームページ： https://www.terrasky.co.jp/  <br/>
 #Salesforce #テラスカイ #mitoco #terrasky <br/>
 
-テラスカイは、国内4,500件の導入実績があるクラウド・インテグレーターです（東証一部上場）。
-テラスカイの提供する「mitoco」は、社内の業務を1つにまとめて、部門を超えてコミュニケーションしやすくします。
+テラスカイは、Salesforceのパートナーとして、5,000件以上の導入実績で培った知見をもとに、Salesforceの導入や拡張を支援します。
+また、Salesforceを使いやすくするソリューションとサービスを常に提供しつづけているクラウドインテグレーターです！
