@@ -6,8 +6,3 @@ feature: true
 company: アクセンチュア株式会社
 city: 
 photoURL: /images/speakers/noriko_koseki.jpeg
-socials:
- - icon: twitter
-   link : 'https://twitter.com/nana8_admin'
-   name: nana eto
----
