@@ -6,3 +6,4 @@ feature: true
 company: アクセンチュア株式会社
 city: 
 photoURL: /images/speakers/noriko_koseki.jpeg
+---
