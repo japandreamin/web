@@ -1,7 +1,7 @@
 ---
 key: surpass
 title: 株式会社Surpass
-category: demojam
+category: supporter
 order: 4
 logo: /images/partners/surpass.png
 website: 'https://surpass-star.com/'
