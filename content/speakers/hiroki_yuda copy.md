@@ -12,6 +12,6 @@ socials:
    name: yuda
 ---
 
-就活時に「アストロかわいいな」と思い、Salesforceに興味を持ちなんだかんだで新卒で入社。
-入社前のインターン時代にインサイドセールスとしてSalesforceを触り、Salesforce大好きマンになる。
+就活時に「アストロかわいいな」と思い、Salesforceに興味を持ちなんだかんだで新卒で入社。<br/>
+入社前のインターン時代にインサイドセールスとしてSalesforceを触り、Salesforce大好きマンになる。<br/>
 その後、Salesforceに入社したは良いものの思ったよりSalesforceに触れられなくて悲しかったので、Salesforceエンジニアにキャリアチェンジ。今はAppExchange作ってます。

@@ -12,5 +12,6 @@ socials:
    name: Taka *heat* Miyamoto
 ---
 
-アーキテクトとしてSalesforceの導入プロジェクトに携わりながら、社内外の若手アーキテクト候補の指導を積極的に行っています。
-また、2018年からSalesforce Saturday Tokyo、2019年からSalesforce Architect Groupを組織し、日本における開発者・アーキテクトの育成に努めています。2020年からSalesforce MVPを拝命し、2021年に認定テクニカルアーキテクトを取得しています。
+アーキテクトとしてSalesforceの導入プロジェクトに携わりながら、社内外の若手アーキテクト候補の指導を積極的に行っています。<br/>
+また、2018年からSalesforce Saturday Tokyo、2019年からSalesforce Architect Groupを組織し、日本における開発者・アーキテクトの育成に努めています。<br/>
+2020年からSalesforce MVPを拝命し、2021年に認定テクニカルアーキテクトを取得しています。
