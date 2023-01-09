@@ -134,23 +134,23 @@
   start: '16:35'
   duration: 5
   row:
-    start: 36
-    end: 37
+    start: 35
+    end: 36
 - key: slot-8
   start: '16:40'
   duration: 10
   row:
-    start: 38
-    end: 40
+    start: 36
+    end: 38
 - key: pause-11
   start: '16:50'
   duration: 5
   row:
-    start: 41
-    end: 42
+    start: 38
+    end: 39
 - key: closing_keynote
   start: '16:55'
   duration: 30
   row:
-    start: 43
-    end: 45
+    start: 39
+    end: 41

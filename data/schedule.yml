@@ -1,4 +1,4 @@
-- day: '2022-01-22'
+- day: '2023-01-28'
   start: '10:00'
   rooms:
     - room: room1
@@ -10,7 +10,7 @@
         - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: admin_stories
+          talk: sjag
         - slot: pause-1
           talk: __pause
         - slot: sponsor-1
@@ -18,11 +18,11 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: admin_sfug01
+          talk: npo
         - slot: pause-3
           talk: __pause
         - slot: slot-3
-          talk: admin_sfug02
+          talk: snowflake
         - slot: pause-4
           talk: __pause
         - slot: sponsor-2
@@ -30,11 +30,11 @@
         - slot: pause-5
           talk: __pause
         - slot: slot-4
-          talk: admin_flow
+          talk: net_zero_cloud
         - slot: pause-6
           talk: __pause
         - slot: slot-5
-          talk: admin_einstein
+          talk: sfugcup
         - slot: pause-7
           talk: __pause
         - slot: sponsor-3
@@ -42,15 +42,19 @@
         - slot: pause-8
           talk: __pause
         - slot: slot-6
-          talk: esg
+          talk: slack
         - slot: pause-9
           talk: __pause
         - slot: slot-7
+          talk: tableau
+        - slot: pause-10
+          talk: __pause
+        - slot: slot-8
           talk: demojam
+        - slot: pause-11
+          talk: __pause
         - slot: closing_keynote
           talk: closing_keynote
-        - slot: party
-          talk: __party
     - room: room2
       slots:
         - slot: opening
@@ -60,7 +64,7 @@
         - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: lwc_screenflow
+          talk: sjag
         - slot: pause-1
           talk: __pause
         - slot: sponsor-1
@@ -68,11 +72,11 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: architect
+          talk: flow_lwc
         - slot: pause-3
           talk: __pause
         - slot: slot-3
-          talk: data
+          talk: snowflake
         - slot: pause-4
           talk: __pause
         - slot: sponsor-2
@@ -80,11 +84,11 @@
         - slot: pause-5
           talk: __pause
         - slot: slot-4
-          talk: package
+          talk: eda
         - slot: pause-6
           talk: __pause
         - slot: slot-5
-          talk: connect_salesforce_ecosystem
+          talk: devops
         - slot: pause-7
           talk: __pause
         - slot: sponsor-3
@@ -92,10 +96,16 @@
         - slot: pause-8
           talk: __pause
         - slot: slot-6
-          talk: slack
+          talk: architect
         - slot: pause-9
           talk: __pause
         - slot: slot-7
+          talk: wit
+        - slot: pause-10
+          talk: __pause
+        - slot: slot-8
           talk: demojam
+        - slot: pause-11
+          talk: __pause
         - slot: closing_keynote
           talk: closing_keynote
