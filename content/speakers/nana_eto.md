@@ -3,7 +3,7 @@ key: nana_eto
 name: 衛藤 奈々
 id: 
 feature: true
-company: サトーホールディングス株式会社
+company: 株式会社クラレ
 city: 
 photoURL: /images/speakers/nana_eto.jpeg
 socials:
