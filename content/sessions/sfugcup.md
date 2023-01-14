@@ -1,9 +1,8 @@
 ---
 key: sfugcup
 title: "SFUG CUP2022の参戦から学んだこと考えたこと"
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - hidefumi_hara
 presentation: 

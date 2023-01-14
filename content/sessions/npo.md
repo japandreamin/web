@@ -1,9 +1,8 @@
 ---
 key: npo
 title: NPO法人が内製主体でNonprofit Success Pack導入・移行を頑張ったお話
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - shota_uera
   - akihito_kikuchi

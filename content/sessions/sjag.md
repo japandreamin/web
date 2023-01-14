@@ -1,9 +1,8 @@
 ---
 key: sjag
 title: "ユーザー企業に学ぶ「Admin Trailblazerへの道」"
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - sadahiro_suzuki
   - riki_nagasawa

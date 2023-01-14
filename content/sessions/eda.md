@@ -1,9 +1,8 @@
 ---
 key: eda
 title: Salesforce でのイベント駆動型アーキテクチャとその実現
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - takashi_abe
 presentation: 

@@ -1,9 +1,8 @@
 ---
 key: slack
 title: Salesforce と共にさらに進化し続ける Slack のプロダクト最新情報
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - kazuhiro_sera
 presentation: 
