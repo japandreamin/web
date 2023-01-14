@@ -1,9 +1,8 @@
 ---
 key: snowflake
 title: Salesforce×Snowflakeスペシャル対談：リアルタイムデータ連携が創る新たな世界
-format: session
-tags:
-  - session
+format: keynote
+tags: []
 speakers:
   - kt
   - kohei_fukada

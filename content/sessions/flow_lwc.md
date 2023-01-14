@@ -1,9 +1,8 @@
 ---
 key: flow_lwc
 title: "一年生エンジニアの通信簿〜フロー＋LWCで画面開発にチャレンジ！〜"
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - hiroki_yuda
 presentation: 

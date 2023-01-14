@@ -1,9 +1,8 @@
 ---
 key: devops
 title: レガシー、ブラックボックスシステムにおけるロー/ノーコードテスト自動化の可能性
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - nicholas_del_pozo
 presentation: 

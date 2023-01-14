@@ -1,9 +1,8 @@
 ---
 key: tableau
 title: Sales Cloudは得意なことだけに集中させよう！Tableauでデータ分析基盤をつくるまでの苦労
-format: session
-tags:
-  - session
+format: long
+tags: []
 speakers:
   - yuji_yamamoto
 presentation: 
