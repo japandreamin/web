@@ -14,7 +14,7 @@
         - slot: pause-1
           talk: __pause
         - slot: sponsor-1
-          talk: sponsor_computerfutures
+          talk: sponsor_shiftplus
         - slot: pause-2
           talk: __pause
         - slot: slot-2
@@ -26,7 +26,7 @@
         - slot: pause-4
           talk: __pause
         - slot: sponsor-2
-          talk: sponsor_phoneappli
+          talk: sponsor_opro
         - slot: pause-5
           talk: __pause
         - slot: slot-4
@@ -38,7 +38,7 @@
         - slot: pause-7
           talk: __pause
         - slot: sponsor-3
-          talk: sponsor_terrasky
+          talk: sponsor_bestpractice
         - slot: pause-8
           talk: __pause
         - slot: slot-6
@@ -68,7 +68,7 @@
         - slot: pause-1
           talk: __pause
         - slot: sponsor-1
-          talk: sponsor_basis
+          talk: sponsor_teamspirit
         - slot: pause-2
           talk: __pause
         - slot: slot-2
@@ -80,7 +80,7 @@
         - slot: pause-4
           talk: __pause
         - slot: sponsor-2
-          talk: sponsor_mashmatrix
+          talk: sponsor_itforce
         - slot: pause-5
           talk: __pause
         - slot: slot-4
@@ -92,7 +92,7 @@
         - slot: pause-7
           talk: __pause
         - slot: sponsor-3
-          talk: sponsor_ntttx
+          talk: sponsor_resolver
         - slot: pause-8
           talk: __pause
         - slot: slot-6
