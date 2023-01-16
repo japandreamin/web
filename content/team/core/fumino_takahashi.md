@@ -1,7 +1,7 @@
 ---
 title: Fumino Takahashi
 type: core
-subtitle: PHONE APPLI
+subtitle: VMware
 photo: fumino_takahashi.jpg
 socials:
   - link: 'https://www.twitter.com/fumino_ten'
