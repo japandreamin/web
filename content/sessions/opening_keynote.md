@@ -1,6 +1,6 @@
 ---
 key: opening_keynote
-title: Opening Keynote
+title: 社員とお客様で繋ぐTrailblazer Communityの大きな輪～Salesforce社員からみたコミュニティとインサイドセールスが築く新しいファン形成の形～
 format: keynote
 tags:
   - keynote
