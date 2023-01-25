@@ -1,6 +1,6 @@
 ---
 key: devops
-title: （仮）アジャイル開発とテスト自動化
+title: アジャイル開発とテスト自動化
 format: long
 tags: []
 speakers:

@@ -1,6 +1,6 @@
 ---
 key: eda
-title: Salesforce でのイベント駆動型アーキテクチャとその実現
+title: イベント駆動型アーキテクチャにするんだ
 format: long
 tags: []
 speakers:
