@@ -9,7 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2022
+Japan Dreamin' 2023
 
 また来年お会いしましょう！
 
