@@ -9,8 +9,7 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2023
-## Save the Date! January 28th, 2023
+## See you soon in 2024!
 
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
