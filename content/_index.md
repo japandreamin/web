@@ -9,12 +9,9 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2021-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2023
-## 2023年1月28日 開催予定
+Japan Dreamin' 2022
 
-<a class="btn primary btn-lg" href="https://japandreamin.connpass.com/event/267815/">
-    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>今すぐ参加登録
-</a>
+また来年お会いしましょう！
 
 {{% /jumbo %}}
 
