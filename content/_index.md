@@ -9,9 +9,11 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2023-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2023
+Japan Dreamin' 2024
 
-また来年お会いしましょう！
+2024年1月29日(土) 
+
+オンサイト開催予定
 
 {{% /jumbo %}}
 
