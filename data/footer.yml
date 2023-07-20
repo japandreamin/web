@@ -23,6 +23,9 @@ content:
 
   - title: footer_previous_edition
     links:
+      - name: Japan Dreamin' 2023
+        url: https://2023.japandreamin.com/
+        newTab: true
       - name: Japan Dreamin' 2022
         url: https://2022.japandreamin.com/
         newTab: true
