@@ -22,7 +22,7 @@ Japan Dreamin' 2024
 {{% home-info  class="primary" %}}
 ## Japan Dreamin' について
 
-Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。著名スピーカーによるセッションの他、参加者同士が楽しめるアクティビティをお届けします。
+Japan Dreamin' は Salesforce のコミュニティカンファレンスです。ビジネスユーザ・システム管理者・開発者・アーキテクト・マーケター・Salesforce 社員・Salesforce、Slack、Tableau、Mulesoft に関わる全ての人が組織や役割を超えて繋がることのできるイベントです。著名スピーカーによるセッションの他、参加者同士が楽しめるアクティビティをお届けします。
 {{% /home-info %}}
 
 <!-- ... -->
