@@ -15,6 +15,10 @@ Japan Dreamin' 2024
 
 オンサイト開催予定
 
+<a class="btn primary btn-lg" href="https://connpass.com/event/303022/">
+    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>今すぐ参加登録
+</a>
+
 {{% /jumbo %}}
 
 <!-- ... -->
