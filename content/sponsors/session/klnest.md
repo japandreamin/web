@@ -2,7 +2,7 @@
 key: klnest
 title: 株式会社リバネスナレッジ
 category: session
-order: 3
+order: 4
 logo: /images/partners/klnest.png
 website: 'https://k.lne.st/'
 lang: ja
