@@ -13,7 +13,7 @@ Japan Dreamin' 2024 にご協賛いただいているスポンサーの企業・
 
 {{% /hero %}}
 
-{{% sponsors categories="session,supporter,demojam" %}}
+{{% sponsors categories="session,supporter,demojam,venue" %}}
 
 <!-- Parteners list -->
 
