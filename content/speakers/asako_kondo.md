@@ -6,6 +6,9 @@ feature: true
 company: 株式会社セールスフォース・ジャパン
 city: 
 photoURL: /images/speakers/asako_kondo.png
+socials:
+ - icon: twitter
+   link : 'https://twitter.com/mars_1107'
 ---
 2020年3月株式会社セールスフォース・ジャパンに入社。コミュニティマネージャとしてTrailblazerと一緒にSalesforceのコミュニティ活性と成長を支える役目としてコミュニティ活動の企画、管理、運営を担当。
 
