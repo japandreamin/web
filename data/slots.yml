@@ -1,156 +1,156 @@
 - key: opening
-  start: '10:30'
-  duration: 5
+  start: '11:00'
+  duration: 30
   row:
     start: 1
     end: 2
 - key: opening_keynote
-  start: '11:00'
+  start: '11:30'
   duration: 30
   row:
     start: 2
     end: 5
 - key: pause-0
-  start: '11:30'
-  duration: 5
+  start: '12:00'
+  duration: 10
   row:
     start: 5
     end: 6
 - key: slot-1
-  start: '11:35'
+  start: '12:10'
   duration: 20
   row:
     start: 6
     end: 8
 - key: pause-1
-  start: '11:55'
-  duration: 15
-  row:
-    start: 8
-    end: 9
-- key: sponsor-1
-  start: '12:00'
-  duration: 10
-  row:
-    start: 9
-    end: 11
-- key: pause-2
-  start: '12:10'
+  start: '12:30'
   duration: 60
   row:
-    start: 11
-    end: 12
-- key: slot-2
-  start: '13:10'
-  duration: 20
-  row:
-    start: 12
+    start: 8
     end: 14
-- key: pause-3
+- key: sponsor-1
   start: '13:30'
-  duration: 5
+  duration: 10
   row:
     start: 14
     end: 15
-- key: slot-3
-  start: '13:35'
-  duration: 30
+- key: pause-2
+  start: '13:40'
+  duration: 5
   row:
     start: 15
-    end: 17
-- key: pause-4
-  start: '14:05'
-  duration: 15
+    end: 16
+- key: slot-2
+  start: '13:45'
+  duration: 20
   row:
-    start: 17
+    start: 16
     end: 18
-- key: sponsor-2
-  start: '14:20'
-  duration: 10
+- key: pause-3
+  start: '14:05'
+  duration: 5
   row:
     start: 18
+    end: 19
+- key: sponsor-2
+  start: '14:10'
+  duration: 10
+  row:
+    start: 19
     end: 20
-- key: pause-5
-  start: '14:30'
-  duration: 15
+- key: pause-4
+  start: '14:20'
+  duration: 5
   row:
     start: 20
     end: 21
-- key: slot-4
-  start: '14:35'
+- key: communication-1
+  start: '14:25'
   duration: 20
   row:
     start: 21
     end: 23
-- key: pause-6
-  start: '14:50'
-  duration: 15
+- key: pause-5
+  start: '14:45'
+  duration: 5
   row:
     start: 23
     end: 24
-- key: slot-5
-  start: '15:10'
+- key: slot-3
+  start: '14:50'
   duration: 20
   row:
     start: 24
     end: 26
-- key: pause-7
-  start: '15:30'
-  duration: 5
+- key: pause-6
+  start: '15:10'
+  duration: 10
   row:
     start: 26
     end: 27
 - key: sponsor-3
-  start: '15:35'
+  start: '15:20'
   duration: 10
   row:
     start: 27
-    end: 29
-- key: pause-8
-  start: '15:45'
+    end: 28
+- key: pause-7
+  start: '15:30'
   duration: 5
   row:
-    start: 29
-    end: 30
-- key: slot-6
-  start: '15:50'
-  duration: 20
+    start: 28
+    end: 29
+- key: mid_keynote
+  start: '15:35'
+  duration: 30
   row:
-    start: 30
+    start: 29
     end: 32
-- key: pause-9
-  start: '16:10'
+- key: pause-8
+  start: '16:05'
   duration: 5
   row:
     start: 32
     end: 33
-- key: slot-7
-  start: '16:15'
+- key: slot-4
+  start: '16:10'
   duration: 20
   row:
     start: 33
     end: 35
-- key: pause-10
-  start: '16:35'
-  duration: 5
+- key: pause-9
+  start: '16:30'
+  duration: 15
   row:
     start: 35
-    end: 36
-- key: slot-8
-  start: '16:40'
+    end: 37
+- key: sponsor-4
+  start: '16:45'
   duration: 10
   row:
-    start: 36
+    start: 37
     end: 38
-- key: pause-11
-  start: '16:50'
-  duration: 5
+- key: pause-10
+  start: '16:55'
+  duration: 10
   row:
     start: 38
     end: 39
-- key: closing_keynote
-  start: '16:55'
-  duration: 30
+- key: demojam
+  start: '17:05'
+  duration: 25
   row:
     start: 39
-    end: 41
+    end: 42
+- key: communication-2
+  start: '17:30'
+  duration: 20
+  row:
+    start: 42
+    end: 44
+- key: closing_keynote
+  start: '17:50'
+  duration: 30
+  row:
+    start: 44
+    end: 47
