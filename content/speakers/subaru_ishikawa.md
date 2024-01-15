@@ -1,5 +1,5 @@
 ---
-key: subaru_ishikaawa
+key: subaru_ishikawa
 name: 石川 昴
 id: 
 feature: true

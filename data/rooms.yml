@@ -1,6 +1,8 @@
 - key: room1
-  label: Astro
+  label: Room 1
   description: システム管理者向けトラック
 - key: room2
-  label: Codey
+  label: Room 2
   description: 開発者・アーキテクト向けトラック
+- key2: room3
+  label: Codey
