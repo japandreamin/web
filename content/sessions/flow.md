@@ -1,7 +1,7 @@
 ---
 key: flow
 title: タイトル未定
-format: session
+format: short
 tags:
   - session
 speakers:

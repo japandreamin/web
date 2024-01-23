@@ -1,7 +1,7 @@
 ---
 key: datacloud
 title: Data Cloud で名寄せしたユーザを Sales Cloud に連携する
-format: session
+format: short
 tags:
   - blaze
   - codey

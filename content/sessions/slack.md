@@ -1,7 +1,7 @@
 ---
 key: slack
 title: Salesforce × Slack （× AI）の現実的な利活用シナリオと効果
-format: session
+format: short
 tags:
   - blaze
 speakers:

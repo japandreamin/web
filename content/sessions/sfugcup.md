@@ -1,7 +1,7 @@
 ---
 key: sfugcup
 title: データドリブン営業の裏側ー当社社員が実際に作ったダッシュボードお見せします
-format: session
+format: short
 tags:
   - blaze
 speakers:

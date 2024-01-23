@@ -1,7 +1,7 @@
 ---
 key: architect
 title: タイトル未定
-format: session
+format: short
 tags:
   - ruth
 speakers:

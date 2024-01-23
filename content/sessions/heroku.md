@@ -1,7 +1,7 @@
 ---
 key: heroku
 title: SalesforceとHerokuのより良い関係を目指して（2章）
-format: session
+format: short
 tags:
   - ruth
   - codey
