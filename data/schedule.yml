@@ -109,3 +109,9 @@
           talk: __communication
         - slot: closing_keynote
           talk: closing_keynote
+    - room: room3
+      slots:
+        - slot: handson-1
+          talk: tableau_handson
+        - slot: handson-2
+          talk: flow

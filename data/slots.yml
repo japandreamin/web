@@ -154,3 +154,15 @@
   row:
     start: 36
     end: 38
+- key: handson-1
+  start: '13:30'
+  duration: 40
+  row:
+    start: 10
+    end: 15
+- key: handson-2
+  start: '14:50'
+  duration: 40
+  row:
+    start: 19
+    end: 23

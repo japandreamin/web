@@ -4,7 +4,6 @@ title: Data Cloud で名寄せしたユーザを Sales Cloud に連携する
 format: short
 tags:
   - blaze
-  - codey
   - ruth
 speakers:
   - tomoya_fujii

@@ -1,9 +1,9 @@
 ---
 key: flow
-title: タイトル未定
-format: short
+title: フローハンズオン
+format: long
 tags:
-  - session
+  - blaze
 speakers:
   - riki_nagasawa
   - sadahiro_suzuki

@@ -1,9 +1,9 @@
 ---
-key: tableau
+key: tableau_handson
 title: Ambassadorに習ってみよう！はじめてのTableau
 format: session
 tags:
-  - session
+  - blaze
 speakers:
   - takehiro_takano
   - tomoko_wakamatsu
