@@ -1,11 +1,9 @@
 ---
 key: tableau_session
-title: タイトル未定
+title: 
 format: session
-tags:
-  - blaze
+tags: []
 speakers:
-  - mika_fukuda
 presentation: 
 draft: false
 ---
