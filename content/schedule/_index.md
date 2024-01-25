@@ -1,5 +1,6 @@
 ---
 title: Schedule
+lang: ja
 menu:
   main:
     weight: 10
