@@ -57,10 +57,6 @@
           talk: closing_keynote
     - room: room2
       slots:
-        - slot: opening
-          talk: __open
-        - slot: opening_keynote
-          talk: opening_keynote
         - slot: pause-0
           talk: __pause
         - slot: slot-1
@@ -91,8 +87,6 @@
           talk: sponsor_kitalive
         - slot: pause-7
           talk: __pause
-        - slot: mid_keynote
-          talk: mid_keynote
         - slot: pause-8
           talk: __pause
         - slot: slot-4
@@ -103,12 +97,8 @@
           talk: sponsor_klnst
         - slot: pause-10
           talk: __pause
-        - slot: demojam
-          talk: demojam
         - slot: communication-2
           talk: __communication
-        - slot: closing_keynote
-          talk: closing_keynote
     - room: room3
       slots:
         - slot: handson-1

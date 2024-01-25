@@ -3,7 +3,7 @@ key: mid_keynote
 title: 最新の「データ + AI + CRM + 信頼」について聞いてみよう
 format: keynote
 tags:
-  - keynote
+  - keynote-all
 speakers:
   - george_yoshida
   - kohei_fukada

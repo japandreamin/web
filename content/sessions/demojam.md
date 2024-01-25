@@ -1,7 +1,7 @@
 ---
 key: demojam
 title: Demo Jam
-format: long
+format: demojam
 tags:
   - astro
   - codey

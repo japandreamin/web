@@ -3,7 +3,7 @@ key: opening_keynote
 title: 🌈コミュトーーク！
 format: keynote
 tags:
-  - keynote
+  - keynote-all
 speakers:
   - asako_kondo
   - sayo_morimoto
