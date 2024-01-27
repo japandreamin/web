@@ -1,7 +1,7 @@
 ---
 key: sponsor_teamspirit
-title: 株式会社チームスピリット
-format: session
+title: Salesforce で CQRS を実現した手法
+format: short
 tags:
   - sponsor
 speakers:

@@ -1,7 +1,7 @@
 ---
 key: sponsor_opro
-title: 株式会社オプロ
-format: session
+title: テクニックよりもカバレッジ！こだわり過ぎず、「カシコく」使うSales Enablement（旧：myTrailhead）
+format: short
 tags:
   - sponsor
 speakers:

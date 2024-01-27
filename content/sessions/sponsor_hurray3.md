@@ -1,7 +1,7 @@
 ---
 key: sponsor_hurray3
-title: 株式会社フレイ・スリー
-format: session
+title: 営業DXの最前線_Salesforce×生成AI×動画の戦略的活用方法
+format: short
 tags:
   - sponsor
 speakers:

@@ -1,7 +1,7 @@
 ---
 key: sponsor_klnst
-title: 株式会社リバネスナレッジ
-format: session
+title: Party on Slack - 生成AIをSlack上で活用するには
+format: short
 tags:
   - sponsor
 speakers:

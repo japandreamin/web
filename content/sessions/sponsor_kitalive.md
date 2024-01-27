@@ -1,7 +1,7 @@
 ---
 key: sponsor_kitalive
-title: 株式会社キットアライブ
-format: session
+title: さようなら Dataloader、いらっしゃい DasyKit ！
+format: short
 tags:
   - sponsor
 speakers:
