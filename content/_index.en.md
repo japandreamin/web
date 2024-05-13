@@ -9,9 +9,9 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2023-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2023
+Japan Dreamin' 2025
 
-## See you soon in 2024!
+## See you soon in 2025!
 
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">

@@ -9,9 +9,9 @@ menu:
 
 {{% jumbo img="/images/backgrounds/bg-2023-min.jpg" imgLabel="Japan Dreamin'" %}}
 
-Japan Dreamin' 2024
+Japan Dreamin' 2025
 
-2024年1月27日(土) 
+2025年1月
 
 オンサイト開催予定
 
