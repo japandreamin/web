@@ -1,6 +1,5 @@
 ---
 title: Erika Matsui
-title: Erika Matsui
 type: core
 subtitle: Chubu Telecommunications
 photo: erika_matsui.jpg
