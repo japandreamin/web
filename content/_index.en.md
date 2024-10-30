@@ -11,7 +11,9 @@ menu:
 
 Japan Dreamin' 2025
 
-## See you soon in 2025!
+Save the Date
+
+## Monday, January 20, 2025
 
 <!--
 <a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
