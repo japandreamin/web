@@ -11,3 +11,4 @@ socials:
    link : 'https://twitter.com/yonyonsaeki'
 ---
 Salesforce業界歴15年のエコシステムエンジニア。SIer、Salesforce社、事業会社経営といったジェネラルな経歴を活かし、エコシステム全体への貢献をテーマに広く事業活動を行っている。
+

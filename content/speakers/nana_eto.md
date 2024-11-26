@@ -13,3 +13,4 @@ socials:
 2010年に営業としてSalesforceと出会い、2014年に専任のSalesforce Adminにキャリアチェンジ。
 一貫して事業会社で経験を重ね、グローバル全社へのSalesforce運用推進に従事。
 Golden Hoodie Recipient (17) / Salesforce MVP HoF (23)
+

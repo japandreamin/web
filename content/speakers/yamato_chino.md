@@ -8,3 +8,4 @@ city:
 photoURL: /images/speakers/yamato_chino.jpg
 ---
 100年ベンチャーのただの社員
+

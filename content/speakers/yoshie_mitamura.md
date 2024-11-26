@@ -12,3 +12,4 @@ socials:
 ---
 Tableau User Group Ambassodor（2023 & 2024）およびTableau Prepユーザー会の幹事。実は、Tableauに出会う前にSalesforceと巡り合い、アカウントが付与されていないにもかかわらず、営業活動データ分析するためにTrailheadで勉強。さらにアカウントがないのにMAを分析するためにPardotも学ぶ。最終的にTableauのアカウントもらえてどっぷりTableau。最近はデジタル人財の育成にシフトしてます！
 
+
