@@ -15,6 +15,11 @@ Japan Dreamin' 2025
 
 オンサイト開催決定！@都内某所
 
+<a class="btn primary btn-lg" href="https://youtu.be/WhWaju8fF8w?si=7ijrsjXV2jIS758H" target="_blank">
+    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>昨年の動画はこちら！
+</a>
+
+
 {{% /jumbo %}}
 
 <!-- ... -->
@@ -33,3 +38,19 @@ Japan Dreamin' は Salesforce のコミュニティカンファレンスです�
 
 {{% /home-subscribe %}}
 
+<style>
+/*20241124動画埋め込みのために追加*/
+#jumbo-video{
+	width: 100%;
+	height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	background-color: #000;
+  }
+  </style>
