@@ -15,6 +15,10 @@ Japan Dreamin' 2025
 
 オンサイト開催決定！@都内某所
 
+<a class="btn primary btn-lg" href="https://japandreamin.connpass.com/event/336645/" target="_blank">
+    <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>お申し込みはこちら！
+</a>
+
 <a class="btn primary btn-lg" href="https://youtu.be/WhWaju8fF8w?si=7ijrsjXV2jIS758H" target="_blank">
     <svg class="icon icon-direction"><use xlink:href="#direction"></use></svg>昨年の動画はこちら！
 </a>
