@@ -15,11 +15,11 @@ Save the Date
 
 ## Monday, January 20, 2025
 
-<!--
-<a class="btn primary btn-lg" href="CALL_FOR_SPEAKERS_URL">
+
+<a class="btn primary btn-lg" href="https://japandreamin.connpass.com/event/336645/">
     <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
 </a>
--->
+
 
 {{% /jumbo %}}
 
