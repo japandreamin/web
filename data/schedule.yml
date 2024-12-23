@@ -1,5 +1,5 @@
-- day: '2024-01-27'
-  start: '11:00'
+- day: '2025-01-30'
+  start: '13:00'
   rooms:
     - room: room1
       slots:
@@ -10,49 +10,31 @@
         - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: slack
+          talk: none
         - slot: pause-1
-          talk: __pause
-        - slot: sponsor-1
-          talk: sponsor_hurray3
-        - slot: pause-2
-          talk: __pause
-        - slot: slot-2
-          talk: npo
+          talk: __pause  
+        - slot: handson-1
+          talk: agentforce_handson
+        - slot: slot-7
+          talk: none
         - slot: pause-3
-          talk: __pause
-        - slot: sponsor-2
-          talk: sponsor_mashmatrix
-        - slot: pause-4
-          talk: __pause
-        - slot: communication-1
-          talk: __communication
-        - slot: pause-5
-          talk: __pause
+          talk: __pause          
         - slot: slot-3
-          talk: tableau_session
-        - slot: pause-6
-          talk: __pause
-        - slot: sponsor-3
-          talk: sponsor_houjinbango
-        - slot: pause-7
-          talk: __pause
-        - slot: mid_keynote
-          talk: mid_keynote
-        - slot: pause-8
-          talk: __pause
+          talk: none
+        - slot: pause-4
+          talk: __pause  
         - slot: slot-4
-          talk: sfugcup
-        - slot: pause-9
-          talk: __pause
-        - slot: sponsor-4
-          talk: sponsor_teamspirit
-        - slot: pause-10
+          talk: none
+        - slot: pause-5
           talk: __pause
         - slot: demojam
           talk: demojam
-        - slot: communication-2
-          talk: __communication
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-5
+          talk: none      
+        - slot: pause-7
+          talk: __pause
         - slot: closing_keynote
           talk: closing_keynote
     - room: room2
@@ -60,48 +42,46 @@
         - slot: pause-0
           talk: __pause
         - slot: slot-1
-          talk: architect
+          talk: admin
         - slot: pause-1
           talk: __pause
-        - slot: sponsor-1
-          talk: sponsor_opro
+        - slot: slot-2
+          talk: arch
         - slot: pause-2
+          talk: __pause          
+        - slot: slot-3
+          talk: sfugcup
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-4
+          talk: slack
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-5
+          talk: comm1
+    - room: room3
+      slots:
+        - slot: pause-0
+          talk: __pause
+        - slot: slot-1
+          talk: platform
+        - slot: pause-1
           talk: __pause
         - slot: slot-2
           talk: datacloud
-        - slot: pause-3
-          talk: __pause
-        - slot: sponsor-2
-          talk: sponsor_creativesurvey
-        - slot: pause-4
-          talk: __pause
-        - slot: communication-1
-          talk: __communication
-        - slot: pause-5
+        - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: lwc
-        - slot: pause-6
-          talk: __pause
-        - slot: sponsor-3
-          talk: sponsor_kitalive
-        - slot: pause-7
-          talk: __pause
-        - slot: pause-8
+          talk: tableau
+        - slot: pause-4
           talk: __pause
         - slot: slot-4
-          talk: heroku
-        - slot: pause-9
+          talk: dev
+        - slot: pause-5
           talk: __pause
-        - slot: sponsor-4
-          talk: sponsor_klnst
-        - slot: pause-10
-          talk: __pause
-        - slot: communication-2
-          talk: __communication
-    - room: room3
+        - slot: slot-5
+          talk: comm2
+    - room: room4
       slots:
-        - slot: handson-1
-          talk: tableau_handson
-        - slot: handson-2
-          talk: flow
+        - slot: slot-7
+          talk: bingocomm
