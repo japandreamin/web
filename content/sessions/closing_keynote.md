@@ -1,6 +1,6 @@
 ---
 key: closing_keynote
-title: 仮
+title: クロージングセッション
 format: keynote
 tags:
   - keynote
