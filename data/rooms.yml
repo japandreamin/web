@@ -1,8 +1,8 @@
 - key: room1
-  label: Room 1
-  description: システム管理者向けトラック
+  label: Main
 - key: room2
-  label: Room 2
-  description: 開発者・アーキテクト向けトラック
+  label: Cloudy
 - key: room3
-  label: Room 3
+  label: Astro
+- key: room4
+  label: Communication
