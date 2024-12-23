@@ -37,6 +37,8 @@
           talk: __pause
         - slot: closing_keynote
           talk: closing_keynote
+        - slot: slot-6
+          talk: close
     - room: room2
       slots:
         - slot: pause-0
