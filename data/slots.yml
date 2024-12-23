@@ -71,41 +71,47 @@
     start: 24
     end: 27
 - key: pause-5
-  start: '16:05'
+  start: '15:55'
   duration: 5
   row:
     start: 27
     end: 29
 - key: demojam
-  start: '16:10'
+  start: '16:00'
   duration: 30
   row:
     start: 29
     end: 32
 - key: pause-6
-  start: '16:40'
-  duration: 10
+  start: '16:30'
+  duration: 5
   row:
     start: 32
     end: 34
 - key: slot-5
-  start: '16:45'
-  duration: 20
+  start: '16:35'
+  duration: 25
   row:
     start: 34
     end: 37
 - key: pause-7
-  start: '17:05'
+  start: '17:00'
   duration: 10
   row:
     start: 37
     end: 39
 - key: closing_keynote
-  start: '17:15'
+  start: '17:10'
   duration: 30
   row:
     start: 39
-    end: 41
+    end: 43
+- key: slot-6
+  start: '17:40'
+  duration: 20
+  row:
+    start: 43
+    end: 45
 - key: handson-1
   start: '14:05'
   duration: 60
