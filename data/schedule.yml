@@ -16,7 +16,7 @@
         - slot: handson-1
           talk: agentforce_handson
         - slot: slot-7
-          talk: none
+          talk: agentforce_handson
         - slot: pause-3
           talk: __pause          
         - slot: slot-3
