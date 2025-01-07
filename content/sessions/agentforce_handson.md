@@ -1,6 +1,6 @@
 ---
 key: agentforce_handson
-title: (仮) Agentforce Service Agent 設定の体験ハンズオン
+title: Agentforce 最新情報 & Agent カスタムアクションを作ってみるハンズオン
 format: session
 tags:
   - blaze
@@ -11,6 +11,6 @@ speakers:
 presentation: 
 draft: false
 ---
-Coral Resort という架空のリゾート運営企業の顧客サポートエージェントを Agentforce Service Agent を使って組み上げるハンズオンです。
+2024年12月に発表のあった Agentforce 2.O についてを含む最新情報の紹介と、自分で作ったフローを Agent カスタムアクションとして設定・利用する流れを体験するハンズオンのセッションです。
 
 ※パソコンを持参ください。WiFi は提供がありますが、社外 WiFi には接続できないなどある場合はモバイル WiFi ルーター等を持参ください。ハンズオン用の組織はこちらで用意します。
