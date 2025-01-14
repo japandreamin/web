@@ -1,6 +1,6 @@
 ---
 key: admin
-title: Adminのあるある話
+title: Adminの設定あるある話
 format: session
 tags:
   - blaze
@@ -9,4 +9,4 @@ speakers:
 presentation: 
 draft: false
 ---
-普段のAdmin業務の中で経験する「あるある」ネタをお届け！
+普段のAdminの業務でのSalesforce設定に関する「あるある」ネタをお届け！みんなで楽しく頷きましょう！
